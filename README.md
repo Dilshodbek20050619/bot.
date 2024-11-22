@@ -17,7 +17,7 @@ Proyektda HTML, CSS, Bootstrap, va PHP texnologiyalari qo'llanilgan. Valyutani a
  # Loyihani o'rnatish
  Quyidagi buyruqlar orqali loyihani klonlashingiz mumkin:
  
- git clone https://github.com/nNurdavlat/SecondProject.git
+ https://github.com/Dilshodbek20050619/bot..git/
  
  cd SecondProject
 # bot.
